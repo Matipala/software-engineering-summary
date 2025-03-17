@@ -1,0 +1,11 @@
+Software Engineering at Google
+Estudiante: Josue Matias Molina Palacios
+Resumen del Capítulo 1: ¿Qué es la Ingeniería de Software?
+Habla sobre que la programación se enfoca en la creación de código funcional y que la ingeniería de software abarca prácticas que garantizan la escalabilidad, mantenibilidad y eficiencia de los sistemas a largo plazo.
+	1	Complejidad en sistemas a gran escala: Google maneja sistemas de gran tamaño que requieren prácticas específicas como revisiones de código, automatización y control de versiones para garantizar la calidad.
+	2	Diferencia entre programación y ingeniería de software: Un código funcional no siempre es sostenible. La ingeniería de software se preocupa por la colaboración, el mantenimiento y la evolución del software con el tiempo.
+	1	Escalabilidad y sostenibilidad: Un buen software no solo debe funcionar, sino ser fácil de mejorar, probar y desplegar sin afectar su estabilidad.
+	2	Importancia de la cultura organizacional: La colaboración entre equipos, la documentación adecuada y el uso de herramientas eficientes son clave para mantener la calidad del software.
+	3	Automatización y herramientas: La automatización en pruebas, integración continua y despliegue ayuda a reducir errores humanos y mejorar la eficiencia.
+
+
